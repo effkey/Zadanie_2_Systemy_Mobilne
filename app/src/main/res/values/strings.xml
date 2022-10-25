@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizzzzzzz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_activity">HTML jest językiem programowania</string>
+    <string name="q_version">JAVA jest językiem programowania</string>
+    <string name="q_listener">C jest starszy od C++ </string>
+    <string name="q_resources">JS jest językiem kompilowanym</string>
+    <string name="q_find_resources">Python jest językiem interpretowanym</string>
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Zła odpowiedź</string>
+
+<!--    to dodalem-->
+    <string name="answer_was_shown">Odpowiedz była już wyświetlona!</string>
+</resources>
